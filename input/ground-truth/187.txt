@@ -1,0 +1,5 @@
+square_fill 555 911 555 911
+check 1488 2596 1488 2596
+square_fill 1142 963 1142 963
+square_fill 871 1443 871 1443
+square_fill 685 2960 685 2960
